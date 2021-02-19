@@ -1,0 +1,78 @@
+body{
+    padding: 0%;
+    margin: 0%;
+    
+}
+#background-cookies{
+    background: url(../img/background1.jpg);
+    padding-bottom: 0.1%;
+}
+#logo{
+    width: 30%;
+    margin: 5% 3%;
+    margin-bottom: 10%;
+}
+#div-text{
+    color: white;
+}
+h1{
+    text-align: center;
+    font-size: 225%;
+}
+hr{
+    margin: 10%;
+    width: 30%;
+    margin: 8% 35%;
+}
+h5{
+    text-align: center;
+    font-size: 150%;
+    font-weight: 300;
+}
+.blocks-collors{
+    padding: 8% 0%;    
+    text-align: center;
+}
+.div-red{
+    background: #d03b40;
+    color: #ded6c0;
+}
+.div-beggie{
+    color: #d03b40;
+    background: #ded6c0;
+}
+h2{
+    font-size:200%;
+    margin: 0%;
+}
+.big-p{
+    font-size: 170%;
+    padding: 0% 10%;
+}
+#background-2{
+    background: url(../img/background2.jpg);
+    color: white;
+}
+#button{
+    padding: 3%;
+    text-decoration: none;
+    color: white;
+    border-style: solid;
+    border-color: white;
+    border-width: 2px;
+    font-size: 120%;
+}
+#background-white{
+    background: #f5f0ed;
+}
+.icon{
+    width: 20%;
+    margin-bottom: 3%;
+}
+p{
+    font-size: 120%;
+}
+h4{
+    margin: 0%;
+    font-size: 200%;
+}
