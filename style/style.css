@@ -87,13 +87,17 @@ h4{
         margin: 2.5%;
     }
     #button{
-        margin-left: 50%;
+        margin-left: 0%;
+    }
+    #space{
+        margin-top: 22%;
     }
 }
 @media(min-width:1100px){
     #logo{
         width:15%;
         margin: 1%;
+        margin-bottom: 5%;
     }
     .goin-float{
         width: 50%;
