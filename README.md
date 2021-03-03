@@ -42,3 +42,21 @@
   <img src="https://github.com/VictorFreir/confeitaria/blob/master/tests-img/iphone-5.jfif" width="275">
   <img src="https://github.com/VictorFreir/confeitaria/blob/master/tests-img/iphone-6.jfif" width="275">
 </p>
+
+<br>
+<br>
+<br>
+
+<h3>On Ipad XR</h3>
+<p float="left">
+  <img src="https://github.com/VictorFreir/confeitaria/blob/master/tests-img/Ipad%201.jfif" width="325">
+  <img src="https://github.com/VictorFreir/confeitaria/blob/master/tests-img/ipad%202.jfif" width="325">
+</p>
+<br>
+<hr>
+<br>
+<p float="left">
+  <img src="https://github.com/VictorFreir/confeitaria/blob/master/tests-img/ipad%203.jfif" width="325">
+  <img src="https://github.com/VictorFreir/confeitaria/blob/master/tests-img/ipad%204.jfif" width="325">
+  <img src="https://github.com/VictorFreir/confeitaria/blob/master/tests-img/ipad%205.jfif" width="325">
+</p>
